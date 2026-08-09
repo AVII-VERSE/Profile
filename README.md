@@ -1,30 +1,7 @@
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         HERO BANNER                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img width="100%" height="320" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,75:4F46E5,100:06B6D4&height=320&section=header&text=AVII-VERSE&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=twinkling"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2200&pause=700&color=06B6D4&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+AVI+%F0%9F%91%8B;Cyber+Security+Enthusiast+%F0%9F%94%90;Learning+Ethical+Hacking+%26+Cyber+Security;Exploring+Web+%26+Network+Security;Learning+Linux+%7C+Python+%7C+Security+Tools;Curiosity+%E2%86%92+Learning+%E2%86%92+Security+%E2%9A%A1" alt="Typing Animation"/>
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/AVII-VERSE?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0F172A&color=4F46E5"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/AVII-VERSE?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=0F172A&color=06B6D4"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=AVII-VERSE&style=for-the-badge&label=Profile%20Views&color=312E81&labelColor=0F172A"/>
-
-<br><br>
-
-</div>
-
----
-
-<div align="center">
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for AVII-VERSE" src="art/header-light.png">
+</picture>
 
 # 👨‍💻 About Me
 
