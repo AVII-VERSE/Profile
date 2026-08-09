@@ -1,52 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=Welcome%20to%20AVII-VERSE&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
+<!-- ╭──────────────────────────────────────────────────────────╮ -->
+<!--                    🌸 HEADER                               -->
+<!-- ╰──────────────────────────────────────────────────────────╯ -->
 
-# Hey there, I'm AVI 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast+%F0%9F%94%90;Learning+Cyber+Security+%F0%9F%92%BB;Exploring+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Learning+Something+New+Every+Day+%F0%9F%8C%B8" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF69B4,45:EF93C4,100:F8BBD0&text=AVII-VERSE&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <br>
 
-[![Followers](https://img.shields.io/github/followers/AVII-VERSE?style=for-the-badge&label=Followers&color=EF93C4&labelColor=1f1f1f)](https://github.com/AVII-VERSE)
-[![Stars](https://img.shields.io/github/stars/AVII-VERSE?style=for-the-badge&label=Stars&color=F8BBD0&labelColor=1f1f1f)](https://github.com/AVII-VERSE?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=AVII-VERSE&style=for-the-badge&label=Views&color=FF69B4)](https://github.com/AVII-VERSE)
+# ✦ Hey there, I'm **AVI** 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast+%F0%9F%94%90;Learning+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Exploring+Web+%26+Network+Security+%F0%9F%8C%90;Learning.+Breaking.+Securing.+%F0%9F%92%97" alt="Typing Animation"/>
+
+<br>
+
+<img src="https://img.shields.io/github/followers/AVII-VERSE?style=flat-square&label=Followers&labelColor=1a1a1a&color=FF69B4"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/AVII-VERSE?style=flat-square&label=Stars&labelColor=1a1a1a&color=EF93C4"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=AVII-VERSE&style=flat-square&label=Profile%20Views&color=FF69B4"/>
+
+<br><br>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-## 🌸 About Me
+## 🌷 About Me
 
 <table>
 <tr>
-<td width="65%" align="left">
+<td width="68%" valign="middle">
 
-Hi! I'm **AVI** 👋
+### Hi, I'm AVI ✨
 
-I'm a **Cyber Security Enthusiast** currently learning and exploring the world of cyber security, ethical hacking, networking, and security tools.
+I'm a **Cyber Security Enthusiast** currently learning and exploring the world of cybersecurity.
 
-- 🔐 Learning **Cyber Security**
-- 🛡️ Exploring **Ethical Hacking**
-- 🌐 Learning **Networking & Web Security**
-- 💻 Interested in **Cyber Security & Technology**
-- 🧪 Enjoy exploring security concepts through practical learning
-- 🌱 Currently improving my technical and security skills
-- 🚀 Always curious about how things work — and how they can be secured
+I'm interested in understanding how systems work, how vulnerabilities happen, and most importantly — **how to make things more secure.** 🔐
 
 <br>
 
-> **Learn. Explore. Secure. Repeat.** 🔐🌸
+**Currently exploring**
+
+`Cyber Security` · `Ethical Hacking` · `Linux`  
+`Networking` · `Web Security` · `Python`
+
+<br>
+
+> ♡ **Learn curious. Think secure. Keep exploring.**
 
 </td>
 
-<td width="35%" align="center">
+<td width="32%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=EF93C4&height=220&section=header&text=AVI&fontSize=70&fontColor=ffffff&animation=fadeIn" width="220"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF69B4,100:F8BBD0&height=150&text=AVI&fontSize=55&fontColor=ffffff&animation=twinkling" width="200"/>
 
 </td>
 </tr>
@@ -66,9 +75,11 @@ I'm a **Cyber Security Enthusiast** currently learning and exploring the world o
 
 <br><br>
 
-### Currently Exploring
-
-`Cyber Security` • `Ethical Hacking` • `Networking` • `Web Security` • `Linux` • `Python`
+<img src="https://img.shields.io/badge/Cyber%20Security-Learning-FF69B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-Exploring-EF93C4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Networking-Learning-F8BBD0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web%20Security-Exploring-FF69B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linux-Learning-EF93C4?style=flat-square"/>
 
 </div>
 
@@ -76,7 +87,7 @@ I'm a **Cyber Security Enthusiast** currently learning and exploring the world o
 
 <div align="center">
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tools & Technologies
 
 <br>
 
@@ -84,17 +95,7 @@ I'm a **Cyber Security Enthusiast** currently learning and exploring the world o
 
 <br><br>
 
-### 🔎 Security Areas
-
-| 🔐 Area | 🌸 Focus |
-|:---:|:---:|
-| 🛡️ Cyber Security | Learning & Exploring |
-| 🌐 Networking | Fundamentals |
-| 🔍 Ethical Hacking | Learning |
-| 🌍 Web Security | Exploring |
-| 🐧 Linux | Learning |
-| 🐍 Python | Security Automation |
-| 🧪 Security Tools | Exploring |
+<sub>Tools I'm learning, experimenting with, and using in my security journey.</sub>
 
 </div>
 
@@ -102,26 +103,15 @@ I'm a **Cyber Security Enthusiast** currently learning and exploring the world o
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <br>
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=AVII-VERSE&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVII-VERSE&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0"
-height="180"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AVII-VERSE&hide_border=true&background=00000000&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=EF93C4&currStreakNum=F8BBD0&sideNums=F8BBD0&dates=999999" width="75%"/>
 
 <br><br>
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=AVII-VERSE&hide_border=true&background=00000000&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=F8BBD0&dates=F8BBD0"
-width="70%"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AVII-VERSE&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=FF69B4&hide_border=true&custom_title=AVI's%20Contribution%20Graph" width="92%"/>
 
 </div>
 
@@ -129,32 +119,15 @@ width="70%"
 
 <div align="center">
 
-## 📈 Contribution Activity
-
-<br>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=AVII-VERSE&bg_color=00000000&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=EF93C4&hide_border=true"
-width="95%"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
 <br>
 
 <!--
 GitHub Action:
-Create this file:
 
+Create:
 .github/workflows/snake.yml
-
-Then add:
 
 name: Generate Snake
 
@@ -182,11 +155,7 @@ jobs:
           GH_PAT: ${{ secrets.GITHUB_TOKEN }}
 -->
 
-<img
-src="https://raw.githubusercontent.com/AVII-VERSE/AVII-VERSE/output/github-contribution-grid-snake.svg"
-width="90%"
-alt="Contribution Snake"
-/>
+<img src="https://raw.githubusercontent.com/AVII-VERSE/AVII-VERSE/output/github-contribution-grid-snake.svg" width="85%" alt="Contribution Snake"/>
 
 </div>
 
@@ -194,7 +163,7 @@ alt="Contribution Snake"
 
 <div align="center">
 
-## 🌐 Connect With Me
+## 💗 Connect
 
 <br>
 
@@ -202,13 +171,19 @@ alt="Contribution Snake"
 <img src="https://img.shields.io/badge/GitHub-AVII--VERSE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="[YOUR_LINKEDIN_URL]">
-<img src="https://img.shields.io/badge/LinkedIn-AVI-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-AVI-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="[YOUR_INSTAGRAM_URL]">
-<img src="https://img.shields.io/badge/Instagram-AVI-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-AVI-EF93C4?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="mailto:[YOUR_EMAIL]">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -216,18 +191,12 @@ alt="Contribution Snake"
 
 <br><br>
 
-### 💗 Thanks for visiting AVII-VERSE
+### ✦ *Stay curious. Stay secure.* 🔐
 
-<sub>Learning Cyber Security • Exploring Technology • Building Knowledge 🔐</sub>
+<sub>Built with curiosity, caffeine & a little bit of pink. 🌸</sub>
 
-</div>
+<br><br>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=150&section=footer&animation=twinkling" width="100%"/>
-
-<div align="center">
-
-**🔐 Stay curious. Stay secure. 🌸**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FF69B4,50:EF93C4,100:F8BBD0&section=footer&animation=twinkling" width="100%"/>
 
 </div>
